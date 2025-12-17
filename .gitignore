@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+bot_env/
+
+# Logs
+*.log
+
+# Media files
+*.mp4
+*.mov
+*.avi
+
+# OS
+.DS_Store
+
+processed_clips/
+.env
+__pycache__/
+*.mp4
+*.mov
